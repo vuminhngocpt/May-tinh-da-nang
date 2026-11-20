@@ -1,8 +1,3 @@
-app/src/main/java/com/vmnstudios95/calculator/MainActivity.kt
-```[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span)
-
-### 2. Nội dung mã nguồn `MainActivity.kt` (dán vào khung soạn thảo)
-```kotlin
 package com.vmnstudios95.calculator
 
 import android.os.Bundle
@@ -266,11 +261,3 @@ class MainActivity : ComponentActivity() {
         AppTab.HISTORY -> Icons.Default.History
     }
 }
-```[span_4](start_span)[span_4](end_span)[span_5](start_span)[span_5](end_span)[span_6](start_span)[span_6](end_span)
-
-### 3. Lời nhắn commit gợi ý
-```text
-Add app/src/main/java/com/vmnstudios95/calculator/MainActivity.kt
-```[span_7](start_span)[span_7](end_span)[span_8](start_span)[span_8](end_span)
-
-Bạn đã dán và lưu xong `MainActivity.kt` chưa, hay muốn làm tiếp tệp nào tiếp theo?
