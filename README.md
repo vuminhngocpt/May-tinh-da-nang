@@ -25,3 +25,8 @@
 ## Mã Nguồn Mở Miễn Phí 100%
 1. mã nguồn mở cho phép sao chép và chỉnh sửa , hãy ghi công tác giả của tôi nếu bạn có làm điều đó , do lười nên không tạo icon hình nền mình cũng chỉ thêm 1 hình thôi mệt quá rùi mất 5h để đưa nó lên đây thôi đấy bug toàn bị lỗi phải sửa quá mệt Ai cũng không thể làm mình đỡ đau đầu 🤕
   [![IMG-4860.png](https://i.postimg.cc/fbvJJqf4/IMG-4860.png)](https://postimg.cc/VSdYhRh4)
+<a href="https://postimg.cc/7bYytXT5" target="_blank"><img src="https://i.postimg.cc/0572QBk0/IMG-4835.png" alt="IMG-4835"></a><br><br>
+<a href="https://postimg.cc/LgXKq6p2" target="_blank"><img src="https://i.postimg.cc/6qV9myb2/IMG-4846.png" alt="IMG-4846"></a><br><br>
+<a href="https://postimg.cc/rzFLZgtz" target="_blank"><img src="https://i.postimg.cc/h4VPj5D8/IMG-4861.png" alt="IMG-4861"></a><br><br>
+<a href="https://postimg.cc/8f5QFPSD" target="_blank"><img src="https://i.postimg.cc/C5CFQzrZ/IMG-4862.png" alt="IMG-4862"></a><br><br>
+<a href="https://postimg.cc/qgMdDQC6" target="_blank"><img src="https://i.postimg.cc/HWbsxhYz/IMG-4863.png" alt="IMG-4863"></a><br><br>
