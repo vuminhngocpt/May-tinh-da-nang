@@ -1,0 +1,23 @@
+# VMN Máy Tính Đa Năng
+
+Ứng dụng Android đa năng viết bằng **Kotlin + Jetpack Compose + Material 3**, áp dụng giao diện **Liquid Glass (Kính lỏng)** và thích ứng mọi kích thước màn hình (từ đồng hồ thông minh `<300dp`, điện thoại, màn hình gập đến máy tính bảng/desktop).
+
+## Tính năng chính
+- **Máy tính cơ bản:** Hỗ trợ biểu thức dài, ngoặc đơn, phần trăm, xem trước kết quả và sao chép nhanh.
+- **Tính tiền theo giờ & Bấm giờ:** Đồng hồ bấm giờ tính tiền trực tiếp, nhập giờ/phút, đồng bộ ngày giờ thiết bị và hệ số nhân (`1.0x`, `1.5x`, `2.0x`, `3.0x`).
+- **Tính tiền & quy đổi khối lượng:** Hỗ trợ `g`, `lạng`, `kg`, `yến`, `tạ`, `tấn` và tính thành tiền theo đơn vị tùy chọn.
+- **Tính toán điện năng:** Hỗ trợ chỉ số công tơ hoặc công suất `Watt`, biểu giá bậc thang EVN hoặc đơn giá cố định kèm VAT 8%.
+- **Ghi chú & Checklist:** Tạo, sửa, xóa, ghim, tìm kiếm và đánh dấu checklist công việc.
+- **Chấm công & Tính lương:** Quản lý nhân sự, chấm công theo ngày, chỉnh sửa bản ghi, tính lương OT/thưởng/phạt và tổng hợp quỹ lương.
+- **Lịch sử, Sao lưu/Khôi phục & Cài đặt:** Lưu trữ cục bộ, sao lưu/khôi phục JSON, bật/tắt tab, đổi ngôn ngữ, tiền tệ và giao diện kính lỏng.
+
+## Thông tin ứng dụng
+- **Tên ứng dụng:** VMN Máy Tính Đa Năng
+- **Nhà Phát Hành:** VMN Studios 95
+- **Nhà Phát Triển:** Vũ Minh Ngọc
+- **Bản Quyền:** Mã Nguồn Mở
+- **Liên Hệ:** Email: vuminhngocpt@gmail.com
+
+## Cách đưa lên GitHub và build APK
+1. Tạo repository mới trên GitHub và đẩy toàn bộ thư mục dự án lên nhánh `main`.
+2. Workflow `.github/workflows/android-ci.yml` sẽ tự động biên dịch Debug APK trên GitHub Actions, hoặc bạn mở trực tiếp bằng **Android Studio** (Kotlin 2.1.20, Compose BOM, JDK 21, `compileSdk = 35`).
