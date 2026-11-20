@@ -33,3 +33,13 @@
 
 ## Một Số Ảnh Ứng Dụng Trên Điện Thoại 
 1. hình ảnh dựa trên Android 11 32bit có hỗ trợ đầy đủ tính năng
+<a href="https://postimg.cc/GT0gRLm4" target="_blank"><img src="https://i.postimg.cc/8cc2hs8m/IMG-4864.jpg" alt="IMG-4864"></a><br><br>
+<a href="https://postimg.cc/9w3g2mQ4" target="_blank"><img src="https://i.postimg.cc/HnnqQjGt/IMG-4865.jpg" alt="IMG-4865"></a><br><br>
+<a href="https://postimg.cc/V0yZwfkr" target="_blank"><img src="https://i.postimg.cc/L55czhdT/IMG-4866.jpg" alt="IMG-4866"></a><br><br>
+<a href="https://postimg.cc/JHwY8rzH" target="_blank"><img src="https://i.postimg.cc/qqqP8gfw/IMG-4867.jpg" alt="IMG-4867"></a><br><br>
+<a href="https://postimg.cc/H8GvmYkj" target="_blank"><img src="https://i.postimg.cc/gjjCvr9y/IMG-4868.jpg" alt="IMG-4868"></a><br><br>
+<a href="https://postimg.cc/8f8XGpzk" target="_blank"><img src="https://i.postimg.cc/BbbrxtWF/IMG-4869.jpg" alt="IMG-4869"></a><br><br>
+<a href="https://postimg.cc/kRrYCJg5" target="_blank"><img src="https://i.postimg.cc/GttWk90v/IMG-4870.jpg" alt="IMG-4870"></a><br><br>
+<a href="https://postimg.cc/wRK4zqjv" target="_blank"><img src="https://i.postimg.cc/vTTJWDRW/IMG-4871.jpg" alt="IMG-4871"></a><br><br>
+<a href="https://postimg.cc/GT0gRLmL" target="_blank"><img src="https://i.postimg.cc/tJJKh70x/IMG-4872.jpg" alt="IMG-4872"></a><br><br>
+<a href="https://postimg.cc/qh6DWh4M" target="_blank"><img src="https://i.postimg.cc/cHFqgwzY/IMG-4873.jpg" alt="IMG-4873"></a><br><br>
