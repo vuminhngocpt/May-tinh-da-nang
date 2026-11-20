@@ -614,14 +614,20 @@ class CalculatorViewModel(application: Application) : AndroidViewModel(applicati
                         val cArr = o.getJSONArray("checklist")
                         for (j in 0 until cArr.length()) {
                             val c = cArr.getJSONObject(j)
-                            cl.add(ChecklistItem(c.optString("id"), c.optString("text"), c.optBoolean("done")))
+                            cl.add(
+                                ChecklistItem(
+                                    id = c.optString("id", UUID.randomUUID().toString()),
+                                    text = c.optString("text", ""),
+                                    done = c.optBoolean("done", false)
+                                )
+                            )
                         }
                     }
                     list.add(
                         NoteItem(
-                            id = o.optString("id"),
-                            title = o.optString("title"),
-                            content = o.optString("content"),
+                            id = o.optString("id", UUID.randomUUID().toString()),
+                            title = o.optString("title", ""),
+                            content = o.optString("content", ""),
                             colorKey = o.optString("colorKey", "emerald"),
                             pinned = o.optBoolean("pinned", false),
                             checklist = cl,
@@ -642,9 +648,9 @@ class CalculatorViewModel(application: Application) : AndroidViewModel(applicati
                     val o = arr.getJSONObject(i)
                     list.add(
                         StaffMember(
-                            id = o.optString("id"),
-                            name = o.optString("name"),
-                            role = o.optString("role"),
+                            id = o.optString("id", UUID.randomUUID().toString()),
+                            name = o.optString("name", ""),
+                            role = o.optString("role", ""),
                             hourlyRate = o.optDouble("hourlyRate", 30000.0),
                             standardHoursPerDay = o.optDouble("standardHoursPerDay", 8.0)
                         )
@@ -661,11 +667,12 @@ class CalculatorViewModel(application: Application) : AndroidViewModel(applicati
                 val list = mutableListOf<AttendanceRecord>()
                 for (i in 0 until arr.length()) {
                     val o = arr.getJSONObject(i)
-                    val st = AttendanceStatus.entries.firstOrNull { it.id == o.optString("status") } ?: AttendanceStatus.FULL_DAY
+                    val st = AttendanceStatus.entries.firstOrNull { it.id == o.optString("status", "full") }
+                        ?: AttendanceStatus.FULL_DAY
                     list.add(
                         AttendanceRecord(
-                            id = o.optString("id"),
-                            staffId = o.optString("staffId"),
+                            id = o.optString("id", UUID.randomUUID().toString()),
+                            staffId = o.optString("staffId", ""),
                             dateIso = o.optString("dateIso", todayIso()),
                             status = st,
                             hoursWorked = o.optDouble("hoursWorked", 8.0),
@@ -687,14 +694,15 @@ class CalculatorViewModel(application: Application) : AndroidViewModel(applicati
                 val list = mutableListOf<CalculationHistoryEntry>()
                 for (i in 0 until arr.length()) {
                     val o = arr.getJSONObject(i)
-                    val cat = AppTab.entries.firstOrNull { it.id == o.optString("category") } ?: AppTab.BASIC
+                    val cat = AppTab.entries.firstOrNull { it.id == o.optString("category", "basic") }
+                        ?: AppTab.BASIC
                     list.add(
                         CalculationHistoryEntry(
-                            id = o.optString("id"),
+                            id = o.optString("id", UUID.randomUUID().toString()),
                             category = cat,
-                            title = o.optString("title"),
-                            detail = o.optString("detail"),
-                            resultText = o.optString("resultText"),
+                            title = o.optString("title", ""),
+                            detail = o.optString("detail", ""),
+                            resultText = o.optString("resultText", ""),
                             timestamp = o.optLong("timestamp", System.currentTimeMillis())
                         )
                     )
