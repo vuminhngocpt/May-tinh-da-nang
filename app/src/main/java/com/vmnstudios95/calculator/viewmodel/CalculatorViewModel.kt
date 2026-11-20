@@ -603,7 +603,7 @@ class CalculatorViewModel(application: Application) : AndroidViewModel(applicati
             enabledTabs = tabs
         )
 
-        prefsStorage.getString("notes_json")?.let { raw ->
+        prefsStorage.getString("notes_json", null)?.let { raw ->
             try {
                 val arr = JSONArray(raw)
                 val list = mutableListOf<NoteItem>()
@@ -640,7 +640,7 @@ class CalculatorViewModel(application: Application) : AndroidViewModel(applicati
             }
         }
 
-        prefsStorage.getString("staff_json")?.let { raw ->
+        prefsStorage.getString("staff_json", null)?.let { raw ->
             try {
                 val arr = JSONArray(raw)
                 val list = mutableListOf<StaffMember>()
@@ -661,7 +661,7 @@ class CalculatorViewModel(application: Application) : AndroidViewModel(applicati
             }
         }
 
-        prefsStorage.getString("attendance_json")?.let { raw ->
+        prefsStorage.getString("attendance_json", null)?.let { raw ->
             try {
                 val arr = JSONArray(raw)
                 val list = mutableListOf<AttendanceRecord>()
@@ -688,7 +688,7 @@ class CalculatorViewModel(application: Application) : AndroidViewModel(applicati
             }
         }
 
-        prefsStorage.getString("history_json")?.let { raw ->
+        prefsStorage.getString("history_json", null)?.let { raw ->
             try {
                 val arr = JSONArray(raw)
                 val list = mutableListOf<CalculationHistoryEntry>()
