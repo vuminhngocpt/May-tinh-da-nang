@@ -30,3 +30,6 @@
 <a href="https://postimg.cc/rzFLZgtz" target="_blank"><img src="https://i.postimg.cc/h4VPj5D8/IMG-4861.png" alt="IMG-4861"></a><br><br>
 <a href="https://postimg.cc/8f5QFPSD" target="_blank"><img src="https://i.postimg.cc/C5CFQzrZ/IMG-4862.png" alt="IMG-4862"></a><br><br>
 <a href="https://postimg.cc/qgMdDQC6" target="_blank"><img src="https://i.postimg.cc/HWbsxhYz/IMG-4863.png" alt="IMG-4863"></a><br><br>
+
+## Một Số Ảnh Ứng Dụng Trên Điện Thoại 
+1. hình ảnh dựa trên Android 11 32bit có hỗ trợ đầy đủ tính năng
