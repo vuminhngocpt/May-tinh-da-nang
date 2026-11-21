@@ -1,6 +1,6 @@
 # VMN Máy Tính Đa Năng
 
-Ứng dụng Android đa năng viết bằng **Kotlin + Jetpack Compose + Material 3**, áp dụng giao diện **Liquid Glass (Kính lỏng)** và thích ứng mọi kích thước màn hình (từ đồng hồ thông minh `<300dp`, điện thoại, màn hình gập đến máy tính bảng/desktop).
+Ứng dụng Android đa năng viết bằng **Kotlin + Java + Html**, áp dụng giao diện **Liquid Glass (Kính lỏng)** và thích ứng mọi kích thước màn hình (từ đồng hồ thông minh `<300dp`, điện thoại, màn hình gập đến máy tính bảng/desktop).
 
 ## Tính năng chính
 - **Máy tính cơ bản:** Hỗ trợ biểu thức dài, ngoặc đơn, phần trăm, xem trước kết quả và sao chép nhanh.
