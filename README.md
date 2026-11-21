@@ -15,14 +15,14 @@
 - **Tên ứng dụng:** VMN Máy Tính Đa Năng
 - **Nhà Phát Hành:** VMN Studios 95
 - **Nhà Phát Triển:** Vũ Minh Ngọc
-- **Bản Quyền:** Mã Nguồn Mở
+- **Bản Quyền:** VMN Studios 95 ©️ 2026 mã nguồn mở
 - **Liên Hệ:** vuminhngocpt@gmail.com
 
-## Cách build APK
+## Cách build APK Nếu Bạn Có Thể Bao Gồm Toàn Bộ Mã Nguồn
 1. Tạo repository mới trên GitHub và đẩy toàn bộ thư mục dự án lên nhánh `main`.
 2. Workflow `.github/workflows/android-ci.yml` sẽ tự động biên dịch Debug APK trên GitHub Actions, hoặc bạn mở trực tiếp bằng **Android Studio** (Kotlin 2.1.20, Compose BOM, JDK 21, `compileSdk = 35`).
 
-## Tải Trự Tiếp Tệp APK
+## Tải Trực Tiếp Tệp APK Giải Nén Và Cài Đặt
 1. https://t.me/c/4316323921/7
 2. https://t.me/vmnstudios/7
  2 link này sẽ có 1 link mở và tải đc 
