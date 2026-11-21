@@ -16,7 +16,7 @@
 - **Nhà Phát Hành:** VMN Studios 95
 - **Nhà Phát Triển:** Vũ Minh Ngọc
 - **Bản Quyền:** Mã Nguồn Mở
-- **Liên Hệ:** Email: vuminhngocpt@gmail.com
+- **Liên Hệ:** vuminhngocpt@gmail.com
 
 ## Cách build APK
 1. Tạo repository mới trên GitHub và đẩy toàn bộ thư mục dự án lên nhánh `main`.
