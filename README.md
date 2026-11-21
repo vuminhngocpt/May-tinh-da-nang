@@ -24,6 +24,8 @@
 
 ## Tải Trự Tiếp Tệp APK
 1. https://t.me/c/4316323921/7
+2. https://t.me/vmnstudios/7
+ 2 link này sẽ có 1 link mở và tải đc 
 ## Mã Nguồn Mở Miễn Phí 100%
 1. mã nguồn mở cho phép sao chép và chỉnh sửa , hãy ghi công tác giả của tôi nếu bạn có làm điều đó , do lười nên không tạo icon hình nền mình cũng chỉ thêm 1 hình thôi mệt quá rùi mất 5h để đưa nó lên đây thôi đấy bug toàn bị lỗi phải sửa quá mệt Ai cũng không thể làm mình đỡ đau đầu 🤕
   [![IMG-4860.png](https://i.postimg.cc/fbvJJqf4/IMG-4860.png)](https://postimg.cc/VSdYhRh4)
