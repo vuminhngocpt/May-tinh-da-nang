@@ -7,6 +7,9 @@
  - mở lần đầu cần internet để tải giao diện 
  - không phải HTML ứng dụng lập trình bằng ngôn ngữ Kotlin mới nhất 
  ## Hướng Dẫn Tải Về Phiên Bản Mới Nhất 2.0
+ - tải về tệp zip giải nén sẽ được tệp apk 
+ - https://t.me/vmnstudios/23
+
  - dành cho người dùng github thành thạo 
 
  <a href="https://postimg.cc/dZCFgPyX" target="_blank"><img src="https://i.postimg.cc/brCvDqNz/IMG-5011.jpg" alt="IMG-5011"></a> <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/QC4M9jxh/IMG-5012.jpg" alt="IMG-5012"></a> <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/VvGNrzL1/IMG-5013.jpg" alt="IMG-5013"></a><br><br>
