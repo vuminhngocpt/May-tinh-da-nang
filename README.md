@@ -14,3 +14,4 @@
 ## 📥 Tải về và cài đặt
 * **Phiên bản mới nhất (2.0):** [Tải tại đây](https://t.me/vmnstudios/23)[span_8](start_span)[span_8](end_span)
 * **Phiên bản cũ (1.0):** [Tải tại đây](https://t.me/vmnstudios/7)[span_9](start_span)[span_9](end_span)
+
