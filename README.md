@@ -1,3 +1,7 @@
+# Thông Báo Bản Cập Nhật 2.0 
+
+Ứng dụng đang cập nhật lên phiên bản mơi , các code đang được thay đổi vì vậy bạn muốn tải về vui lòng lấy link tele để tải không tải ở đây xin cảm ơn 🙏 
+
 # VMN Máy Tính Đa Năng
 
 Ứng dụng Android đa năng viết bằng **Kotlin + Java + Html**, áp dụng giao diện **Liquid Glass (Kính lỏng)** và thích ứng mọi kích thước màn hình (từ đồng hồ thông minh `<300dp`, điện thoại, màn hình gập đến máy tính bảng/desktop).
