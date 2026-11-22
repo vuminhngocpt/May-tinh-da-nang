@@ -6,5 +6,6 @@
  -sửa đổi phông chữ và nền theo phong cách 
  -đã cập nhật khả năng tính toán tốt hơn ở phiên bản này 
  ## Tải về và cài đặt
- -để tải về phiên bản cũ vui lòng bấm vào link sau https://t.me/vmnstudios/7
 
+ - tải về phiên bản cập nhật 2.0 https://t.me/vmnstudios/23
+ - tải về phiên bản cũ 1.0 https://t.me/vmnstudios/7
