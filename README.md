@@ -1,7 +1,8 @@
  ## Giới Thiệu Ứng Dụng 
  - Đây là ứng dụng máy tính có hỗ trợ các tính năng cần thiết để tính toán hàng ngày như tính tiền hữu ích chứ không phải chỉ tính toán 
  - Hỗ trợ lưu lịch sử 200 phiên tính toán
-
+ - Hỗ trợ tính tiền theo kg / lít 
+ - giao diện đẹp mắt cho các chị em các anh không thích vào phần cài đặt chỉnh lại nhé
 
  ## Hướng Dẫn Tải Về Phiên Bản Mới Nhất 2.0
  - Làm theo các bước bên dưới để tải về hoặc Add vào tài khoản Github của bạn 
