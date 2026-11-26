@@ -5,7 +5,7 @@
  - giao diện đẹp mắt cho các chị em các anh không thích vào phần cài đặt chỉnh lại nhé
  - Miễn phí 100% cam kết không có theo dõi người dùng , không quảng cáo
  - mở lần đầu cần internet để tải giao diện 
- - không phải HTML ứng dụng lập trình bằng ngôn ngữ Kotlin mới nhất 
+ - không có icon ứng dụng để cập nhật sau
  ## Hướng Dẫn Tải Về Phiên Bản Mới Nhất 2.0
  - tải về tệp zip giải nén sẽ được tệp apk phiên bản 2.0 mới nhất
  - Telegram https://t.me/vmnstudios/23
